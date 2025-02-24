@@ -41,6 +41,60 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 8
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 9
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 10
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 11
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 12
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 13
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 14
+    },
+    {
+      "name": "sukuma",
+      "image": "",
+      "price": 111,
+      "id": 15
+    },
+    {
+      "name": "sukuma",
+      "image": "nnn",
+      "price": 111,
+      "id": 18
     }
   ]
 }
